@@ -2,10 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="http://sorune.com/xmlsitemap.xsl"?>
 <!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://sorune.com</loc><lastmod>2020-07-25T19:11:31+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://sorune.com/question/teknolojik-ilerlemeler-goz-onune-alindiginda-modern-bir-ordu-icin-kara-kuvvetleri-hala-eski-onemine-sahip-mi/</loc><lastmod>2020-07-25T19:11:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sorune.com</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sorune.com/question/teknolojik-ilerlemeler-goz-onune-alindiginda-modern-bir-ordu-icin-kara-kuvvetleri-hala-eski-onemine-sahip-mi/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sorune.com/question/covid-sirasinda-en-buyuk-kazanan-kim/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sorune.com/question/2020de-ethereuma-yatirim-yapmali-miyim/</loc><lastmod>2020-07-26T14:04:16+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sorune.com/question/araba-yakit-tanki-tam-dolu-kullanildiginda-neden-daha-az-yakit-tuketiyor/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/question/k-sesi-nasil-cikarilir/</loc><lastmod>2020-07-25T19:04:04+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sorune.com/question/araba-yakit-tanki-tam-dolu-kullanildiginda-neden-daha-az-yakit-tuketiyor/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/gizlilik-politikasi/</loc><lastmod>2020-07-24T07:05:28+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/users/</loc><lastmod>2020-07-24T07:02:02+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/typography/</loc><lastmod>2020-07-24T07:01:47+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -13,7 +15,6 @@
 <url><loc>http://sorune.com/faqs/</loc><lastmod>2020-07-24T06:59:49+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/about-us/</loc><lastmod>2020-07-23T22:56:13+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/badges/</loc><lastmod>2020-07-23T21:59:59+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sorune.com/question/covid-sirasinda-en-buyuk-kazanan-kim/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/question/motor-yag-degisimi-ne-kadar-sure-aralikla-yapilmali/</loc><lastmod>2020-07-23T15:05:14+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/question/kasko-ile-ilgili-fiyat-sorunu/</loc><lastmod>2020-07-23T15:05:07+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/question/tarcanlar-oto-ekspertiz-fiyati-nedir-ve-serviste-neler-yapilir/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -25,7 +26,7 @@
 <url><loc>http://sorune.com/tags/</loc><lastmod>2020-07-21T16:41:54+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/contact-us/</loc><lastmod>2020-07-21T16:41:54+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sorune.com/question-sidebar/</loc><lastmod>2020-07-21T16:41:54+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sorune.com/question-category/motorlu-araclar/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-category/motorlu-araclar/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/kasko/</loc><lastmod>2020-07-23T15:05:07+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-category/gayrimenkul/</loc><lastmod>2020-07-22T08:53:21+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/kat-irtifaki/</loc><lastmod>2020-07-22T08:36:57+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
@@ -37,7 +38,7 @@
 <url><loc>http://sorune.com/question-tag/daire/</loc><lastmod>2020-07-22T08:53:21+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-category/saglik/</loc><lastmod>2020-07-25T19:04:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/corona/</loc><lastmod>2020-07-22T14:35:06+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/covid-19/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/covid-19/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/okul/</loc><lastmod>2020-07-22T14:35:06+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/artikulasyon/</loc><lastmod>2020-07-25T19:04:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/k-sesi/</loc><lastmod>2020-07-25T19:04:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
@@ -57,18 +58,21 @@
 <url><loc>http://sorune.com/question-tag/oto-exper/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/oto-expertiz-fiyatlari-2020/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://sorune.com/question-tag/tarcanlar-oto-nerede/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-category/ekonomi/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/economi/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/dunya-ekonomisi/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/gdp/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/gsyih/</loc><lastmod>2020-07-23T20:45:52+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/yakit-tuketimi/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/otomobil/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/arac/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/vw/</loc><lastmod>2020-07-24T13:41:48+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-category/teknoloji/</loc><lastmod>2020-07-25T19:11:31+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/ordu/</loc><lastmod>2020-07-25T19:11:31+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://sorune.com/question-tag/asimetrik-savas/</loc><lastmod>2020-07-25T19:11:31+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-category/ekonomi/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/economi/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/dunya-ekonomisi/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/gdp/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/gsyih/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/yakit-tuketimi/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/otomobil/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/arac/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/vw/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-category/teknoloji/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/ordu/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/asimetrik-savas/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/ethereum/</loc><lastmod>2020-07-26T14:04:16+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/coin/</loc><lastmod>2020-07-26T14:04:16+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://sorune.com/question-tag/ethereum-fiyati-ne-olur/</loc><lastmod>2020-07-26T14:04:16+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 
 </urlset>
 <!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
