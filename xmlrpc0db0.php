@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://localhost/wordpress4</homePageLink>
+		<homePageLink>http://sorune.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost/wordpress4/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost/wordpress4/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost/wordpress4/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost/wordpress4/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost/wordpress4/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://sorune.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://sorune.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://sorune.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://sorune.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://sorune.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
