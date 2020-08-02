@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/xsl" href="http://sorune.com/xmlsitemap.xsl"?>
-<!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
+ 
+ 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://sorune.com</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>http://sorune.com/soru/d-kurtarma-diskimi-yanlislikla-sildim-nasil-geri-alabilirim/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -107,4 +107,4 @@
 <url><loc>http://sorune.com/soru-etiket/win-10/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 
 </urlset>
-<!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
+ 
