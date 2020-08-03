@@ -2,7 +2,9 @@
  
  
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://www.sorune.com</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.sorune.com</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.sorune.com/soru/modern-grafik-kartlari-neden-ayri-bir-guc-konektoru-gerektirir-neden-anakart-yuvasindan-guc-almaz/</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.sorune.com/soru/rusya-neden-s-400-savunma-sistemini-turkiyeye-satmanin-rus-askeri-teknolojisini-tehlikeye-atacagindan-endise-etmiyor/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://www.sorune.com/soru/d-kurtarma-diskimi-yanlislikla-sildim-nasil-geri-alabilirim/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://www.sorune.com/topluluklar/</loc><lastmod>2020-08-01T21:30:00+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://www.sorune.com/sss/</loc><lastmod>2020-08-01T21:29:06+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -77,7 +79,7 @@
 <url><loc>http://www.sorune.com/soru-etiket/otomobil/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/arac/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/vw/</loc><lastmod>2020-07-25T22:41:18+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>http://www.sorune.com/soru-kategorisi/teknoloji/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-kategorisi/teknoloji/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/ordu/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/asimetrik-savas/</loc><lastmod>2020-07-26T14:13:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/ethereum/</loc><lastmod>2020-07-26T14:04:16+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
@@ -105,6 +107,14 @@
 <url><loc>http://www.sorune.com/soru-etiket/d-surucusu/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/windows/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>http://www.sorune.com/soru-etiket/win-10/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/s-400/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/s400/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/turkiye/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/turkiyeye-s-400-satma/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-kategorisi/bilgisayar/</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/ekran-karti-guc-kablosu/</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/yeni-ekran-kartlari/</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>http://www.sorune.com/soru-etiket/gpu-guc-kablosu/</loc><lastmod>2020-08-03T10:12:47+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 
 </urlset>
  
