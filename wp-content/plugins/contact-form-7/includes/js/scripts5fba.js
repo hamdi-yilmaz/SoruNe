@@ -148,7 +148,7 @@
 			&& ! val.match( /^[a-z][a-z0-9.+-]*:/i )
 			&& -1 !== val.indexOf( '.' ) ) {
 				val = val.replace( /^\/+/, '' );
-				val = 'https://' + val;
+				val = 'http://' + val;
 			}
 
 			$( this ).val( val );
