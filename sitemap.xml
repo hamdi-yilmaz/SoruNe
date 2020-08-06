@@ -2,7 +2,9 @@
  
  
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.sorune.com</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.sorune.com</loc><lastmod>2020-08-06T22:12:11+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.sorune.com/sss/</loc><lastmod>2020-08-06T22:12:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.sorune.com/soru/koronavirusun-neden-oldugu-bu-yeni-durgunluk-icinde-insanlar-yatirimlariyla-ne-yapmali/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/soru/cin-amerika-ile-ticaret-savasiyla-nasil-basa-cikabilir/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/soru/fuzeler-savas-ucaklarini-filmlerde-oldugu-gibi-arkadan-mi-takip-ediyor/</loc><lastmod>2020-08-05T10:22:05+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/soru/tarihte-yapilmis-en-buyuk-tahminler-nelerdir/</loc><lastmod>2020-08-04T10:42:53+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -11,7 +13,6 @@
 <url><loc>https://www.sorune.com/soru/rusya-neden-s-400-savunma-sistemini-turkiyeye-satmanin-rus-askeri-teknolojisini-tehlikeye-atacagindan-endise-etmiyor/</loc><lastmod>2020-08-03T09:14:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/soru/d-kurtarma-diskimi-yanlislikla-sildim-nasil-geri-alabilirim/</loc><lastmod>2020-08-02T12:03:19+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/topluluklar/</loc><lastmod>2020-08-01T21:30:00+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://www.sorune.com/sss/</loc><lastmod>2020-08-01T21:29:06+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/iletisim/</loc><lastmod>2020-08-01T21:28:51+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/etiketler/</loc><lastmod>2020-08-01T21:28:27+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/kullanicilar/</loc><lastmod>2020-08-01T21:28:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -74,7 +75,7 @@
 <url><loc>https://www.sorune.com/soru-etiket/oto-expertiz-fiyatlari-2020/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/tarcanlar-oto-nerede/</loc><lastmod>2020-07-23T10:42:13+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-kategorisi/saglik-2/</loc><lastmod>2020-07-27T20:45:36+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>https://www.sorune.com/soru-kategorisi/ekonomi/</loc><lastmod>2020-07-27T12:51:45+00:00</lastmod><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-kategorisi/ekonomi/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/economi/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/dunya-ekonomisi/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/gdp/</loc><lastmod>2020-07-26T14:12:04+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
@@ -136,6 +137,11 @@
 <url><loc>https://www.sorune.com/soru-etiket/amerika/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/ticaret-savasi/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/2020/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/resesyon/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/ekonomik-kriz/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/korona/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/pandemi/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/uluslararasi-ekonomi/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 
 </urlset>
  
