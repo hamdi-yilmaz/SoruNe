@@ -2,7 +2,8 @@
  
  
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.sorune.com</loc><lastmod>2020-08-06T22:30:01+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.sorune.com</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.sorune.com/soru/bir-ulke-iflas-ederse-ne-olur/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/etiketler/</loc><lastmod>2020-08-06T22:30:01+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/cerez-politikasi/</loc><lastmod>2020-08-06T22:26:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.sorune.com/sss/</loc><lastmod>2020-08-06T22:12:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -131,7 +132,7 @@
 <url><loc>https://www.sorune.com/soru-etiket/savas-ucagi/</loc><lastmod>2020-08-05T10:22:05+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/jet/</loc><lastmod>2020-08-05T10:22:05+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/savunma-fuzeleri/</loc><lastmod>2020-08-05T10:22:05+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
-<url><loc>https://www.sorune.com/soru-kategorisi/politika/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-kategorisi/politika/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/cin/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/abd/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/amerika/</loc><lastmod>2020-08-06T21:14:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
@@ -142,6 +143,10 @@
 <url><loc>https://www.sorune.com/soru-etiket/korona/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/pandemi/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.sorune.com/soru-etiket/uluslararasi-ekonomi/</loc><lastmod>2020-08-06T21:57:35+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/iflas/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/devaluasyon/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/doviz/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+<url><loc>https://www.sorune.com/soru-etiket/dolar/</loc><lastmod>2020-08-09T21:22:50+00:00</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
 
 </urlset>
  
