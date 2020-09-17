@@ -685,7 +685,7 @@ window.Modernizr = (function( window, document, undefined ) {
     tests['fontface'] = function() {
         var bool;
 
-        injectElementWithStyles('@font-face {font-family:"font";src:url("https://")}', function( node, rule ) {
+        injectElementWithStyles('@font-face {font-family:"font";src:url("https:///")}', function( node, rule ) {
           var style = document.getElementById('smodernizr'),
               sheet = style.sheet || style.styleSheet,
               cssText = sheet ? (sheet.cssRules && sheet.cssRules[0] ? sheet.cssRules[0].cssText : sheet.cssText || '') : '';
@@ -1022,7 +1022,7 @@ window.Modernizr = (function( window, document, undefined ) {
       /** Name of the expando, to work with multiple documents or to re-shiv one document */
       var expando = '_html5shiv';
 
-      /** The id for the the documents expando */
+      /** The id for the documents expando */
       var expanID = 0;
 
       /** Cached data for each document */
