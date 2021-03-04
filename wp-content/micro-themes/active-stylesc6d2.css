@@ -1,0 +1,140 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Menu item 235 **/
+false {
+	
+}
+
+/** General >> Li comment 178 **/
+#li-comment-178 {
+	
+}
+
+/** General >> Wrap comment without image **/
+#wrap .comment-without-image {
+	
+}
+
+/** General >> Wrap discy main inner **/
+#wrap .discy-main-inner {
+	
+}
+
+/** General >> Menu header link **/
+#menu-header a {
+	
+}
+
+/** General >> Post 478 question bottom **/
+#post-478 .question-bottom {
+	
+}
+
+/** General >> Post 478 question bottom _2 **/
+#post-478 .question-bottom {
+	
+}
+
+/** General >> Wrap comment without image _2 **/
+#wrap .comment-without-image {
+	box-shadow: 0 0 10px rgb(190, 191, 193) !important;
+	background-color: rgb(255, 255, 255) !important;
+	padding-top: 30px !important;
+	padding-bottom: 30px !important;
+	border-radius: 33px !important;
+}
+
+/** General >> Wrap text **/
+#wrap .text {
+	
+}
+
+/** General >> Row tabs home menu tabs desktop **/
+#row-tabs-home .menu-tabs-desktop {
+	display: none !important;
+}
+
+/** General >> Wrap page content **/
+#wrap .page-content {
+	background-color: rgb(242, 242, 242) !important;
+	padding-top: 0 !important;
+}
+
+/** General >> Inner sidebar widget **/
+.inner-sidebar > .widget {
+	border-radius: 22px !important;
+}
+
+/** General >> Inner sidebar button default **/
+.inner-sidebar .button-default {
+	border-radius: 22px !important;
+}
+
+/** General >> Menu explore menu image **/
+#menu-explore .menu-image {
+	border-width: 1px !important;
+	border-radius: 7px !important;
+}
+
+/** General >> Nav menu mCS img loaded **/
+#nav_menu .mCS_img_loaded {
+	border-radius: 7px !important;
+}
+
+/** General >> Inner footer list item **/
+#inner-footer li {
+	border-bottom-width: 0 !important;
+}
+
+
+/*( Desktop & Tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= General =================== */
+
+	/** General >> Kategori mobil link **/
+	.kategori_mobil > a {
+	position: relative !important;
+	right: 22px !important;
+}
+
+	/** General >> Nav menu mCS img loaded **/
+	#nav_menu .mCS_img_loaded {
+	
+}
+
+
+}
+
+
+/*( Tablet & Phone )*/
+@media (max-width: 767px) {
+
+	/*= General =================== */
+
+	/** General >> Kategori mobil link **/
+	.kategori_mobil > a {
+	position: relative !important;
+	right: 22px !important;
+}
+
+
+}
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= General =================== */
+
+	/** General >> Kategori mobil link **/
+	.kategori_mobil > a {
+	
+}
+
+
+}
+
